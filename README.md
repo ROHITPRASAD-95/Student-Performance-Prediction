@@ -49,8 +49,6 @@ Real-time predictions
 Interactive visualizations
 API-ready deployment
 
-
-
 🌐 API Endpoint
 POST /predict
 Example JSON:
